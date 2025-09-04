@@ -1,7 +1,7 @@
 body {
     font-family: Arial, sans-serif;
     text-align: center;
-    background-color: #0B1D3A;
+    background-color: #FFE6E6;
     color: #333;
     overflow-x: hidden;
 }
@@ -64,12 +64,12 @@ h1 {
 }
 
 .card .front {
-    background: #FFFFFF;
+    background: #FF9696;
     color: white;
 }
 
 .card .back {
-    background: #C0C0C0;
+    background: #FF6666;
     color: white;
     transform: rotateY(180deg);
 }
@@ -88,7 +88,7 @@ h1 {
     margin-top: 40px;
     font-size: 18px;
     font-weight: bold;
-    color: #A9CCE3;
+    color: #F77272;
     opacity: 0;
     transform: translateY(30px);
     animation: fadeIn 2s ease-in-out forwards;
